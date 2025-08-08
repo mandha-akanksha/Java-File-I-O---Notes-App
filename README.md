@@ -13,7 +13,7 @@ I created a simple text-based Notes App using Java that allows users to add and 
 - Displays all previously saved notes.
 - Notes are stored in a .txt file for persistence.
 - Keeps running until the user chooses to exit.
-- 
+  
 ## Files Used:
 - Notes.java - Handles file operations
 - Main.java - main class which handles user input and menu
